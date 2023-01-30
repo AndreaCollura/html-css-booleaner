@@ -73,3 +73,35 @@ thead {
 .riga-3 {
     background-color: rgb(127, 178, 255); 
 }
+
+
+.consbox-1 {
+        width: 280px;
+        height: 200px;
+        background: url(../img/monitor.jpg) no-repeat;
+      
+}
+
+.consbox-2 {
+    width: 280px;
+    height: 300px;
+    background: url(../img/graph.jpg) no-repeat;
+}
+
+
+  
+
+.constext {
+    color: rgba(49, 48, 48, 0.425);
+    font-style: normal;
+  }
+
+
+
+h3 {
+    color: white;
+    padding: 10px;
+    
+}
+
+
