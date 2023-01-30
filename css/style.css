@@ -1,3 +1,9 @@
-.hearder-box { 
+.header-box {
+    width: 50%;
+    height: 60px;
+    margin: 0 auto;
+    background: rgb(0, 132, 255) url(../img/pattern.png);
+    background-size: contain;
     
 }
+
