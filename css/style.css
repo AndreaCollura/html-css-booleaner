@@ -1,5 +1,11 @@
-.header-box {
+body {
     width: 50%;
+    margin: 0 auto;
+}
+
+
+.header-box {
+    width: auto;
     height: 60px;
     margin: 0 auto;
     background: rgb(0, 132, 255) url(../img/pattern.png);
@@ -10,4 +16,28 @@
 .logo {
     width: 130px;
     height: 75px;
+}
+
+.title-undertext {
+    font-size: small;
+    margin-top: -20px;
+
+}
+
+.highlight-text {
+    color:  rgb(0, 132, 255) ;
+    
+}
+
+.tim-img-1 {
+    width: 350px;
+}
+
+.tim-img-2 {
+    width: 300px;
+}
+
+.img-desc {
+    font-size: 8px;
+    margin:0
 }
