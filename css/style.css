@@ -46,3 +46,23 @@ body {
     width: auto;
 }
 
+table {
+    width: 100%;
+    text-align: left;
+    table-layout: auto;
+    
+}
+
+thead {
+
+    background-color: aqua;
+    color: aliceblue;
+}
+
+.riga-1 {
+    background-color: rgb(127, 178, 255);
+}
+
+.riga-3 {
+    background-color: rgb(127, 178, 255); 
+}
