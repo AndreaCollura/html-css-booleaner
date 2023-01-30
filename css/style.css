@@ -30,14 +30,19 @@ body {
 }
 
 .tim-img-1 {
-    width: 350px;
+    width: 460px;
 }
 
 .tim-img-2 {
-    width: 300px;
+    width: 400px;
 }
 
 .img-desc {
     font-size: 8px;
     margin:0
 }
+
+.main-text-box {
+    width: auto;
+}
+
